@@ -9,6 +9,7 @@ GuidApi created to help with new my projects and my learning process
 
 - DB connection and 4 processes ✅
 - Security protocol ✅
+- Rabbitmq integration 🕚
 - Microservice architecture 🕚
 - Performance and efficiency improvements🕚
 
