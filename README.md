@@ -1,5 +1,5 @@
 
-# GuideAPI
+# Spring Boot Example API
 
 ## Why was it created
 GuidApi created to help with new my projects and my learning process
